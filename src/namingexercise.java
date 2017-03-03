@@ -4,7 +4,8 @@ import coinpurse.ConsoleDialog;
 import coinpurse.Purse;
 
 /**
- * Change the name of the object into something else that make readers understand.
+ * TODO Change the name of the object into something else that make readers understand.
+ * Read the javadoc for the hints.
  * @author Theeruth Borisuth
  */
 public class namingexercise {
